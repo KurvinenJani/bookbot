@@ -1,3 +1,2 @@
-  GNU nano 7.2                                                                             README.md                                                                                      
-# bookbot
+                                                                             README.md                                                                                    t
 BookBot is my first [Boot.dev](https://www.boot.dev) project!
